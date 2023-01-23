@@ -1,0 +1,8 @@
+{
+    "editor.guides.bracketPairs": true,
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "workbench.preferredDarkColorTheme": "Community Material Theme Palenight High Contrast",
+    "workbench.preferredHighContrastColorTheme": "Community Material Theme Palenight High Contrast",
+    "workbench.preferredHighContrastLightColorTheme": "Community Material Theme Palenight High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight"
+}
